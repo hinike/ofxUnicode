@@ -8,7 +8,7 @@
 
 #pragma once
 
-#include "ofUnicode.h"
+#include "ofxUnicode.h"
 #include "utf8.h"
 
 class ofUTF8 {

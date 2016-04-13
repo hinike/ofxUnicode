@@ -10,7 +10,7 @@
 
 #include "utf8.h"
 #include "ofUTF8.h"
-#include "ofUnicode.h"
+#include "ofxUnicode.h"
 
 //#include "ofUnicodeConverter.h" // for some reason, Poco/UnicodeConverter 
                                 // is excluded in the os x/linux version

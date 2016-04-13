@@ -1,5 +1,5 @@
 //
-//  ofUnicode.h
+//  ofxUnicode.h
 //  ofxUTFCPPExample
 //
 //  Created by Christopher Baker on 5/23/12.
@@ -65,7 +65,7 @@ typedef utf8::iterator<ofUTF8Ptr> ofxUTF8Iterator;
 // Not exactly like an STL iterator.
 // from the UTF8-CPP library.
 
-class ofUnicode {
+class ofxUnicode {
 public:
     
     static bool       isValid(const ofUniChar& unicode);     // is this a valid unicode character?
